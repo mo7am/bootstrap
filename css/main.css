@@ -1,6 +1,6 @@
 /*
 Theme name : EliteCorp
-Theme Coder : mohamed salah
+Theme Coder : Mohamed Salah
 
 First Color : #08526d
 second Color : #ec1c23
@@ -37,7 +37,7 @@ second Color : #ec1c23
 
 /* End Upper Bar */
 
-/* Start Nav Bar */
+/* Start NavBar */
 
 .navbar-brand > span{
     font-size: 40px;
@@ -66,7 +66,7 @@ second Color : #ec1c23
 color: #ec1c23;
 }
 
-/* End Nav Bar */
+/* End NavBar */
 
 /* Start Slider */
 
@@ -285,7 +285,7 @@ margin-bottom: 40px;
 /* End Featured */
 
 
-/* Start Latest Post */
+/* Start Latest Posts */
 
 .latest-post{
     padding: 100px 0 50px;
@@ -337,7 +337,7 @@ margin-bottom: 40px;
     color:#908f8f;
 }
 
-/* End Latest Post */
+/* End Latest Posts */
 
 /* Start Testimonials */
 
